@@ -1,2 +1,4 @@
 # Britney-abstract-algebra
-Abstract Algebra study
+1、Abstract Algebra study
+
+2、linear Algebra study and 线性代数
